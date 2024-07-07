@@ -7,7 +7,7 @@ Gerenciador de tarefas com interface gráfica e banco de dados.
 
  Definição do projeto desenvolvido:
 - Gerenciador de tarefas;
-- Desenvolvimento: Gabriela Bernardoni de Vasconcelos 23.1.8987
+- Desenvolvimento: Gabriela Bernardoni de Vasconcelos 
 
 ## Sobre o projeto: 
 
